@@ -1,0 +1,3 @@
+equipo1,goles,goles2,equipo2
+AREGENTINA,0,2,ARABIA
+POLONIA,0,0,MEXICO

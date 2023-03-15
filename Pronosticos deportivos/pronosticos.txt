@@ -1,0 +1,3 @@
+equipo1,gana1,empate,gana2,equipo2
+ARGENTINA,-,-,x,ARABIA
+POLONIA,-,x,-,MEXICO
