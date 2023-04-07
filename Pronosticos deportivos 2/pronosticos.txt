@@ -1,0 +1,9 @@
+participante,equipo1,gana1,empate,gana2,equipo2
+Mariana,ARGENTINA,x,-,-,ARABIA
+Mariana,POLONIA,-,x,-,MEXICO
+Mariana,ARGENTINA,x,-,-,MEXICO
+Mariana,ARABIA,-,-,x,POLONIA
+Pedro,ARGENTINA,x,-,-,ARABIA
+Pedro,POLONIA,-,-,x,MEXICO
+Pedro,ARGENTINA,x,-,-,MEXICO
+Pedro,ARABIA,-,x,-,POLONIA
